@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/semester-7-overview/","tags":["S7"],"dg-note-properties":{"tags":["S7"]}}
 ---
 
-![s7.jpg](/img/user/z.other/s7.jpg)
+![s7.jpg](/img/user/assets/s7.jpg)
 
 | Subject                                                                              | Coefficient | Number of Chapters |
 | :----------------------------------------------------------------------------------- | :---------: | :----------------: |
