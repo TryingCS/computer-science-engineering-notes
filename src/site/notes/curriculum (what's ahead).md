@@ -17,7 +17,7 @@
 
 ---
 
-### **Semester 8** #s8 
+### **Semester 8** #S8
 
 |Subject (Matière)|Coefficient|Number of Chapters|
 |:--|:-:|:-:|

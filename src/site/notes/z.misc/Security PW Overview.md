@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/z-misc/security-pw-overview/","dg-note-properties":{}}
 ---
 
-#pw #s8 
+#pw #S8 
  labs ask for **Windows 10 as a VM**, not as host.
 
 | Lab | Windows? | Note                                                                                           |

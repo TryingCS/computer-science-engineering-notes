@@ -24,16 +24,16 @@ for **low-level performance, memory control, and parallel computing**.
 
 ---
 
-##  before HPC
+##  before #hpc
 
-| Topic | Why |
-|---|---|
-| Pointers and memory layout | Needed for MPI, OpenMP, PThreads, CUDA |
-| Multithreading basics | Needed for PThreads and OpenMP |
-| Compilation flags | `-O2`, `-O3`, `-Wall`, `-pthread` |
-| Valgrind | Detect memory leaks and invalid accesses |
-| Linux CLI | Compile, run, measure time |
-| Basic bash | Run scripts and jobs |
+| Topic                      | Why                                      |
+| -------------------------- | ---------------------------------------- |
+| Pointers and memory layout | Needed for MPI, OpenMP, PThreads, CUDA   |
+| Multithreading basics      | Needed for PThreads and OpenMP           |
+| Compilation flags          | `-O2`, `-O3`, `-Wall`, `-pthread`        |
+| Valgrind                   | Detect memory leaks and invalid accesses |
+| Linux CLI                  | Compile, run, measure time               |
+| Basic bash                 | Run scripts and jobs                     |
 
 ---
 
