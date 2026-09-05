@@ -6,7 +6,7 @@
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
       "installedAt": "2026-09-05T11:31:32.703Z",
-      "enabled": true,
+      "enabled": false,
       "files": [
         "src/plugins/tag-nav/README.md",
         "src/plugins/tag-nav/garden-plugin.json",
