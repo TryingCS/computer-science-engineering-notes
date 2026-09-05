@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/extras/","dg-note-properties":{}}
 ---
 
-
-
----
-
 #html 
 ## Block vs Inline
 
