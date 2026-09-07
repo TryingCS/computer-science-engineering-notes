@@ -14,3 +14,7 @@
 [Online AI safety courses and project sprints](https://bluedot.org/courses)
 ***
 [Krzysztof Kowalczyk – Programming Blog](https://blog.kowalczyk.info/)
+
+https://learn-docker-fork.vercel.app/  #docker
+w
+

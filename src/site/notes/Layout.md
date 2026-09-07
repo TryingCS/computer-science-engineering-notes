@@ -155,6 +155,6 @@ This is the actual structure you'll reuse on **every page** of your app
 
 Every future page is a copy of this with different stuff inside `<main>`.
 
-[[z.misc/extras\|next]]
+[[extras\|next]]
 
 
