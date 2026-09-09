@@ -25,6 +25,6 @@
 #python 
 #SQL 
 ***
-🔀misc/not scritly college related :
-#backend 
+🔀not scritly college related :
+#misc 
 ***
