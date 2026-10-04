@@ -12,6 +12,7 @@
 ***
 📚️Subjects:
 #S7 
+#ml
 #BI 
 #hpc 
 #technicalWritng 
