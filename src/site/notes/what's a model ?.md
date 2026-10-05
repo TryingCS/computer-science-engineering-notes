@@ -7,7 +7,7 @@ A **model** in machine learning is :
 
 > **the learned function/artifact that takes new input data and produces an output (prediction, category, value, decision, etc.).**
 
-é
+
 ![Pasted image ٢٠٢٦١٠٠٣٢٢١٥٢١.png](/img/user/Pasted%20image%20%D9%A2%D9%A0%D9%A2%D9%A6%D9%A1%D9%A0%D9%A0%D9%A3%D9%A2%D9%A2%D9%A1%D9%A5%D9%A2%D9%A1.png)
 ### Traditional programming
 - You provide: **Data** + **Handcrafted model**

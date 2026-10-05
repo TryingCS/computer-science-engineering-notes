@@ -48,14 +48,14 @@ A chef spends most of their time walking to the pantry (RAM) to get ingredients.
 
 When we say a CPU has high **IPC (Instructions Per Cycle)**, we mean that engineers have arranged those billions of transistors in a way that allows the CPU to do multiple things at once, guess the future, and avoid waiting for slow memory. 
 
-**But here is the catch (connecting it back to Chapter 1):**
+**But here is the catch:**
 All of these "talents" (pipelining, multiple ALUs, out-of-order execution) require **a massive number of extra transistors**. And every extra transistor you add generates more heat and consumes more power. 
 
 By the mid-2000s, engineers realized: *We can't keep adding all these complex "talent" features to a single core because the chip will melt.* 
 
 So, they took a step back. They stopped trying to make the single chef smarter, and instead just hired a bunch of average chefs and put them in the same kitchen. **That is the birth of multi-core processors and parallel computing.**
 
-Does this make the "talent" concept make more sense? The transistors aren't smart, but their *arrangement* creates intelligent behavior.
+The transistors aren't smart, but their *arrangement* creates intelligent behavior.
 
 
 

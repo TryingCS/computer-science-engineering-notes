@@ -21,7 +21,7 @@ Here is how the features stack up side-by-side:
 * **Neon:** Does **not** have a built-in Realtime WebSocket service. If you want realtime updates in Neon, you have to build and host your own WebSocket server using "Neon Functions" or a third-party tool . 
 
 #### 🟢 Database Branching (Winner: Neon)
-* **Neon:** This is their superpower. You can instantly "branch" your database like a Git repository (e.g., create a "dev" branch from "main" in one second) [[11\|11]]. Neon recently made its Auth and Object Storage "branch-aware" as well.
+* **Neon:** This is their superpower. You can instantly "branch" your database like a Git repository (e.g., create a "dev" branch from "main" in one second) . Neon recently made its Auth and Object Storage "branch-aware" as well.
 * **Supabase:** Added branching recently, but Neon’s implementation is deeper, faster, and more central to the developer experience.
 
 #### 🟡 Authentication (Tie, different philosophies)

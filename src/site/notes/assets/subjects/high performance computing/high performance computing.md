@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/assets/subjects/high-performance-computing/high-performance-computing/","dg-note-properties":{}}
 ---
 
-
+#hpc 
 
 - [[assets/subjects/high performance computing/clock speed vs SCP\|clock speed vs SCP]]
 - [[assets/subjects/high performance computing/Flynn’s Taxonomy\|Flynn’s Taxonomy]]

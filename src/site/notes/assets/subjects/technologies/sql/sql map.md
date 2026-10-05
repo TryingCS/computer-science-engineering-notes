@@ -3,7 +3,7 @@
 ---
 
 
-for #BI, Big Data, data visualization, and project work**.
+for #BI, Big Data, data visualization, and project work.
 
 ---
 
