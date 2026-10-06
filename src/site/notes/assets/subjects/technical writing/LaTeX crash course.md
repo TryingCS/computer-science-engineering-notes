@@ -28,8 +28,6 @@ Website: https://www.overleaf.com
 
 Good for:
 
-- your laptop
-- your Xiaomi Redmi Note 8 browser
 - no installation
 - automatic compilation
 
@@ -43,9 +41,9 @@ Steps:
 
 ---
 
-## Option B: Linux Mint + TeXstudio
+## Option B: TeXstudio
 
-Install LaTeX and TeXstudio:
+Install LaTeX and TeXstudio (steps for Linux):
 
 ```bash
 sudo apt update
