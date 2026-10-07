@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/high-performance-computing/flynn-s-taxonomy/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/high-performance-computing/flynn-s-taxonomy/","created":"2026-09-18T08:23:18.592+01:00","updated":"2026-09-02T12:40:15.000+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

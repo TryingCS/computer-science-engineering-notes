@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/technical-writing/la-te-x-crash-course/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/technical-writing/la-te-x-crash-course/","created":"2026-09-18T08:23:19.759+01:00","updated":"2026-10-06T22:18:29.846+01:00","dg-note-properties":{}}
 ---
 
 #technicalWritng 
@@ -25,9 +25,6 @@ produces: **Hello**
 Overleaf works in your browser.
 
 Website: https://www.overleaf.com
-
-Good for:
-
 - no installation
 - automatic compilation
 

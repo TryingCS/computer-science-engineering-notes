@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/technologies/python-roadmap/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/technologies/python-roadmap/","created":"2026-09-18T08:23:23.416+01:00","updated":"2026-09-05T21:01:33.000+01:00","dg-note-properties":{}}
 ---
 
 #python 

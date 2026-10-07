@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probability-vs-statistics/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/probability-vs-statistics/","created":"2026-10-06T19:11:30.972+01:00","updated":"2026-10-06T19:19:16.785+01:00","dg-note-properties":{}}
 ---
 
 #ml 

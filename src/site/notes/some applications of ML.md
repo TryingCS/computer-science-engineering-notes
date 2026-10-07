@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/some-applications-of-ml/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/some-applications-of-ml/","created":"2026-10-05T20:39:59.671+01:00","updated":"2026-10-05T20:50:18.963+01:00","dg-note-properties":{}}
 ---
 
 #ml 

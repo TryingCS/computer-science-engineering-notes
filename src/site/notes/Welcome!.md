@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-09-18T08:23:27.908+01:00","updated":"2026-09-07T23:03:24.000+01:00","dg-note-properties":{}}
 ---
 
 #meta

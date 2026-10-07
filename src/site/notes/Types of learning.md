@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/types-of-learning/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/types-of-learning/","created":"2026-10-05T18:14:36.479+01:00","updated":"2026-10-05T19:53:41.105+01:00","dg-note-properties":{}}
 ---
 
 #ml 

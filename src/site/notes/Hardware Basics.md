@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hardware-basics/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/hardware-basics/","created":"2026-09-30T12:15:52.260+01:00","updated":"2026-09-30T12:17:32.941+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clock-speed/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/clock-speed/","created":"2026-09-27T21:05:44.979+01:00","updated":"2026-10-04T03:47:24.555+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

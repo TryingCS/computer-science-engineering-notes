@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dynamic-frequency-scaling/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dynamic-frequency-scaling/","created":"2026-10-04T03:43:22.831+01:00","updated":"2026-10-04T03:44:14.946+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

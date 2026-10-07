@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/adding-vs-shrinking/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/adding-vs-shrinking/","created":"2026-09-30T12:25:44.785+01:00","updated":"2026-09-30T12:30:27.872+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

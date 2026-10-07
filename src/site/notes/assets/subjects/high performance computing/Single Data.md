@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/high-performance-computing/single-data/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/high-performance-computing/single-data/","created":"2026-09-18T08:23:19.727+01:00","updated":"2026-09-03T09:55:53.000+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

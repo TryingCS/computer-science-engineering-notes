@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/technologies/some-resources/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/technologies/some-resources/","created":"2026-09-18T08:23:23.286+01:00","updated":"2026-09-06T20:56:12.000+01:00","dg-note-properties":{}}
 ---
 
 #S7 

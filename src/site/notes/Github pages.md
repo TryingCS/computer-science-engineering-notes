@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/github-pages/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/github-pages/","created":"2026-09-18T08:23:26.823+01:00","updated":"2026-09-06T17:46:31.000+01:00","dg-note-properties":{}}
 ---
 
 GitHub Pages can host a React frontend **if it builds to static files**. #hosting

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/z-misc/neon/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/z-misc/neon/","created":"2026-09-18T08:23:26.271+01:00","updated":"2026-10-04T03:22:22.414+01:00","dg-note-properties":{}}
 ---
 
 #misc 

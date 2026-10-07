@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/z-misc/curriculum-what-s-ahead/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/z-misc/curriculum-what-s-ahead/","created":"2026-09-18T08:23:21.477+01:00","updated":"2026-09-04T05:38:38.000+01:00","dg-note-properties":{}}
 ---
 
 #S7 

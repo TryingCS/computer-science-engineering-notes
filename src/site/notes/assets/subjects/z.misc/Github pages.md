@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/z-misc/github-pages/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/z-misc/github-pages/","created":"2026-09-18T08:23:25.654+01:00","updated":"2026-09-09T20:56:53.000+01:00","dg-note-properties":{}}
 ---
 
 #misc 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/high-performance-computing/clock-speed-vs-scp/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/high-performance-computing/clock-speed-vs-scp/","created":"2026-09-18T08:23:18.574+01:00","updated":"2026-09-02T13:44:06.000+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

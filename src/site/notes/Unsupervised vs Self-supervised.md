@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unsupervised-vs-self-supervised/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/unsupervised-vs-self-supervised/","created":"2026-10-05T19:01:03.336+01:00","updated":"2026-10-05T19:03:29.754+01:00","dg-note-properties":{}}
 ---
 
 #ml

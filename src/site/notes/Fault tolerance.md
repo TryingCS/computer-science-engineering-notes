@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fault-tolerance/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/fault-tolerance/","created":"2026-10-04T03:41:45.406+01:00","updated":"2026-10-04T03:42:47.614+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

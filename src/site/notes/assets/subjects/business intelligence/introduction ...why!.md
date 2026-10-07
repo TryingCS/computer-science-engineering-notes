@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/business-intelligence/introduction-why/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/business-intelligence/introduction-why/","created":"2026-09-18T08:23:18.558+01:00","updated":"2026-09-02T22:53:08.000+01:00","dg-note-properties":{}}
 ---
 
 #BI

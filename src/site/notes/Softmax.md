@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/softmax/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/softmax/","created":"2026-10-06T19:43:07.978+01:00","updated":"2026-10-06T20:26:35.410+01:00","dg-note-properties":{}}
 ---
 
 #misc 

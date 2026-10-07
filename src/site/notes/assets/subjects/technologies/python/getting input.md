@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/technologies/python/getting-input/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/technologies/python/getting-input/","created":"2026-09-18T08:23:20.958+01:00","updated":"2026-09-02T11:37:21.000+01:00","dg-note-properties":{}}
 ---
 
 #python

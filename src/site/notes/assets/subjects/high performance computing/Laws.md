@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/high-performance-computing/laws/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/high-performance-computing/laws/","created":"2026-09-18T08:23:22.247+01:00","updated":"2026-09-02T12:47:08.000+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

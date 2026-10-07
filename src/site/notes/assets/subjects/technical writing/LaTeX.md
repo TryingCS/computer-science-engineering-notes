@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/technical-writing/la-te-x/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/technical-writing/la-te-x/","created":"2026-09-18T08:23:25.130+01:00","updated":"2026-09-25T19:12:05.421+01:00","dg-note-properties":{}}
 ---
 
 

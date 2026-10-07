@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/high-performance-computing/single-instruction/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/high-performance-computing/single-instruction/","created":"2026-09-18T08:23:18.903+01:00","updated":"2026-09-02T11:38:00.000+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

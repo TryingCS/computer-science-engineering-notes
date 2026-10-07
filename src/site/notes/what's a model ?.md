@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-s-a-model/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/what-s-a-model/","created":"2026-10-03T21:31:33.099+01:00","updated":"2026-10-04T13:03:04.772+01:00","dg-note-properties":{}}
 ---
 
 #ml 

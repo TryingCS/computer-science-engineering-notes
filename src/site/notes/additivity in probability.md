@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/additivity-in-probability/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/additivity-in-probability/","created":"2026-10-06T19:33:55.070+01:00","updated":"2026-10-06T19:57:01.420+01:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dennard-scaling/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dennard-scaling/","created":"2026-10-01T15:20:01.952+01:00","updated":"2026-10-01T15:25:09.913+01:00","dg-note-properties":{}}
 ---
 
 #hpc  #misc 

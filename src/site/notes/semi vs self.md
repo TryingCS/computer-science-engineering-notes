@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/semi-vs-self/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/semi-vs-self/","created":"2026-10-05T18:52:55.695+01:00","updated":"2026-10-05T18:56:29.790+01:00","dg-note-properties":{}}
 ---
 
 #ml 

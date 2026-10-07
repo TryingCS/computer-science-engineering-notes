@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/technologies/bash/linux-navigation/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/technologies/bash/linux-navigation/","created":"2026-09-18T08:23:20.954+01:00","updated":"2026-09-03T09:58:24.000+01:00","dg-note-properties":{}}
 ---
 
 

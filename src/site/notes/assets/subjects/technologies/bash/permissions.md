@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/technologies/bash/permissions/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/technologies/bash/permissions/","created":"2026-09-18T08:23:22.178+01:00","updated":"2026-09-03T10:17:55.000+01:00","dg-note-properties":{}}
 ---
 
 #bash 

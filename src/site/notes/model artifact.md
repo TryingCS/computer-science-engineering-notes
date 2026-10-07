@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/model-artifact/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/model-artifact/","created":"2026-10-03T22:25:09.823+01:00","updated":"2026-10-03T22:31:24.823+01:00","dg-note-properties":{}}
 ---
 
 #ml 

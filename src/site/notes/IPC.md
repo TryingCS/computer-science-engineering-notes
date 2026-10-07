@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ipc/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ipc/","created":"2026-09-27T21:12:00.183+01:00","updated":"2026-10-04T03:51:41.250+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/technologies/bash/bash-roadmap/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/technologies/bash/bash-roadmap/","created":"2026-09-18T08:23:22.207+01:00","updated":"2026-09-03T10:01:57.000+01:00","dg-note-properties":{}}
 ---
 
 #bash

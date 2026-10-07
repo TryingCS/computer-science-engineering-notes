@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/z-misc/commits-etiquettes/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/z-misc/commits-etiquettes/","created":"2026-09-18T08:23:24.408+01:00","updated":"2026-09-09T21:00:11.000+01:00","dg-note-properties":{}}
 ---
 
 #misc 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/technologies/python/for-loops/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/technologies/python/for-loops/","created":"2026-09-18T08:23:22.711+01:00","updated":"2026-09-02T12:44:48.000+01:00","dg-note-properties":{}}
 ---
 
 #python 

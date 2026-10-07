@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neon/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/neon/","created":"2026-09-18T08:23:29.051+01:00","updated":"2026-10-04T03:23:24.698+01:00","dg-note-properties":{}}
 ---
 
 #misc 

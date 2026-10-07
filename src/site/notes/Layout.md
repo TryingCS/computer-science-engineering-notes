@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/layout/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/layout/","created":"2026-09-18T08:23:28.625+01:00","updated":"2026-09-05T21:01:27.000+01:00","dg-note-properties":{}}
 ---
 
 #html 

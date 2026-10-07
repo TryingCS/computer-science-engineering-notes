@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paralleism-types/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paralleism-types/","created":"2026-10-01T15:11:53.069+01:00","updated":"2026-10-01T15:19:58.395+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

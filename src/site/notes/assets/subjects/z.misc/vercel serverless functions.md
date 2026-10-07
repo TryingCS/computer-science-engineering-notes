@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/z-misc/vercel-serverless-functions/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/z-misc/vercel-serverless-functions/","created":"2026-09-18T08:23:20.938+01:00","updated":"2026-09-09T20:56:27.000+01:00","dg-note-properties":{}}
 ---
 
 #backend #misc 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/technologies/sql/sql-map/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/technologies/sql/sql-map/","created":"2026-09-18T08:23:24.607+01:00","updated":"2026-10-04T03:56:13.776+01:00","dg-note-properties":{}}
 ---
 
 

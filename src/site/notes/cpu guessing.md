@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cpu-guessing/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cpu-guessing/","created":"2026-09-30T11:49:13.219+01:00","updated":"2026-09-30T11:57:11.203+01:00","dg-note-properties":{}}
 ---
 
 #hpc 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/z-misc/security-pw-overview/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/z-misc/security-pw-overview/","created":"2026-09-18T08:23:23.304+01:00","updated":"2026-09-04T05:39:21.000+01:00","dg-note-properties":{}}
 ---
 
 #pw #S8 

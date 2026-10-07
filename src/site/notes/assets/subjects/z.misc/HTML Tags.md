@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/subjects/z-misc/html-tags/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/assets/subjects/z-misc/html-tags/","created":"2026-09-18T08:23:25.636+01:00","updated":"2026-09-04T23:57:24.000+01:00","dg-note-properties":{}}
 ---
 
 #html 
