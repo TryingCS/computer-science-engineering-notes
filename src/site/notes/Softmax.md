@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/softmax/","created":"2026-10-06T19:43:07.978+01:00","updated":"2026-10-06T20:26:35.410+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/softmax/","created":"2026-10-06T19:43:07.978+01:00","updated":"2026-10-08T22:19:29.303+01:00","dg-note-properties":{}}
 ---
 
-#misc 
+#ml #misc 
  fancy word, but it's just a specific *function* used in neural networks. 
 
 

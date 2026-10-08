@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/","created":"2026-10-07T08:07:31.051+01:00","updated":"2026-10-07T08:36:06.698+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/misc/","created":"2026-10-07T08:07:31.051+01:00","updated":"2026-10-08T19:41:13.522+01:00","dg-note-properties":{}}
 ---
 
 #ml 
@@ -37,3 +37,4 @@ Because of this property, your model must output:
 This is exactly why the [[Softmax\|Softmax]] function (from a few slides ago) exists! It forces the model's outputs to satisfy this property. 
 ***
 
+Posterior. 's what we want to know after we see the data. (e.g., "The test is positive. What's the chance they are severely ill?")
