@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/random-variables-and-distributions/","created":"2026-10-08T22:19:20.110+01:00","updated":"2026-10-08T22:58:24.298+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/random-variables-and-distributions/","created":"2026-10-08T22:19:20.110+01:00","updated":"2026-10-10T16:26:55.094+01:00","dg-note-properties":{}}
 ---
 
 #ml 
@@ -23,14 +23,6 @@ values.
 (Probability mass function, PMF):
 P (X = xi )= pi , with $\sum$pi = 1
 
-### Continuous variable
-![Pasted image ٢٠٢٦١٠٠٨٢٢٣٨١١.png](/img/user/Pasted%20image%20%D9%A2%D9%A0%D9%A2%D9%A6%D9%A1%D9%A0%D9%A0%D9%A8%D9%A2%D9%A2%D9%A3%D9%A8%D9%A1%D9%A1.png)
+### [[Continuous variable in ML\|Continuous variable in ML]]
 
-### Expectation and Variance
-![Pasted image ٢٠٢٦١٠٠٨٢٢٥٧٢٢.png](/img/user/Pasted%20image%20%D9%A2%D9%A0%D9%A2%D9%A6%D9%A1%D9%A0%D9%A0%D9%A8%D9%A2%D9%A2%D9%A5%D9%A7%D9%A2%D9%A2.png)• Examples:
-• The expectation of the average loss over a
-dataset : E [Loss] .
-• The variance measures the stability of the
-model :
-– low variance → robust model;
-– high variance → overfitting.
+### [[Expectation and Variance\|Expectation and Variance]]
